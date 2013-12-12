@@ -1,0 +1,5 @@
+most of this taken from an ubuntu source pkg. The idea was to turn linux's 'ip' binary into a library that supports json output.
+
+There's another 'tool' that uses this library on my github, libip-monitor. This is basically the 'ip monitor' command.
+
+make
